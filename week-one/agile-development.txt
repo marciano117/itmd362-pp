@@ -88,6 +88,9 @@ already.
 
 5. Copy below the output from `node -v`:
 
+peter@phasma-chrome:~/itmd362-pp$ node -v
+peter@phasma-chrome:~/itmd362-pp$ 
+(I am not sure why I am not getting any output.)
 
 6. Copy below all of the output from `npm install http-server -g`:
 
