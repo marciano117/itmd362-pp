@@ -1,8 +1,4 @@
-form,label,input {
-  font-family: 'Ubuntu';
-}
-
-#biography {
+form,label,input,textarea {
   font-family: 'Ubuntu';
 }
 
