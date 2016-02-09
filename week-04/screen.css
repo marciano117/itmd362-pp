@@ -1,3 +1,12 @@
-body {
+form,label,input {
   font-family: 'Ubuntu';
+}
+
+#biography {
+  font-family: 'Ubuntu';
+}
+
+input,textarea,label {
+  display: block;
+  width: 100%;
 }
