@@ -9,4 +9,5 @@ form,label,input {
 input,textarea,label {
   display: block;
   width: 100%;
+  font-size: 2em;
 }
