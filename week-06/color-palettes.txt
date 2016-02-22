@@ -21,7 +21,7 @@ Explanation of your color choices: I chose these colors mainly because these are
 * A shaded color palette for a website that sells natural and organic foods.
 
 Filename: organic_foods_shaded.png
-Explanation of your color choices:
+Explanation of your color choices: The first color that came to my head when I read "organic foods" was yellow. I really like this color palette for this kind of site because I think it can get the point across without having to use the color green which is used for all "organic" food sites. I picked the redish/brown color as a good contrast to the bright yellow and gold colors.
 
 * A complementary palette for a banking website.
 
