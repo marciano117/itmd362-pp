@@ -26,7 +26,7 @@ Explanation of your color choices: The first color that came to my head when I r
 * A complementary palette for a banking website.
 
 Filename: banking_complementary.png
-Explanation of your color choices:
+Explanation of your color choices: The color gold HAS to be on a banking website. It just makes sense to me. I really like the light shades of blues with the gold. I think it fits much better than a full or true dark blue. I like the beige color as well because I think it complements the gold and blue and brings them together in a sense.
 
 * A triadic palette for a website that offers games for children.
 
