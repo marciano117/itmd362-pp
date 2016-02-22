@@ -1,4 +1,4 @@
-# Production Problem 4: Color Palettes for HCI
+i# Production Problem 4: Color Palettes for HCI
 
 ## The Problem
 
@@ -15,20 +15,20 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
+Filename: gaming_laptop_monochromatic.png
 Explanation of your color choices:
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
+Filename: organic_foods_shaded.png
 Explanation of your color choices:
 
 * A complementary palette for a banking website.
 
-Filename:
+Filename: banking_complementary.png
 Explanation of your color choices:
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
+Filename: child_games_triadic.png
 Explanation of your color choices:
