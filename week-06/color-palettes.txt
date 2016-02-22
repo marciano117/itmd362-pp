@@ -16,7 +16,7 @@ Fine-grained, atomic commits to your Production Problems repository that include
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
 Filename: gaming_laptop_monochromatic.png
-Explanation of your color choices:
+Explanation of your color choices: I chose these colors mainly because these are the colors I use on my Alienware gaming laptop. Blue is my favorite color but I also love having more gray/black included as well because most gaming laptops are black.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
