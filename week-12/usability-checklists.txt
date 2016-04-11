@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://www.userfocus.co.uk/resources/taskchecklist.html
+2. http://www.userfocus.co.uk/resources/navchecklist.html
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Site loads and renders quickly.
+2. Background color and text color contrasts appropriately.
+3. Page is free from unnecessary information.
+4. Site structure is simple and optimized.
+5. Users can complete common tasks as quick as possible.
+6. Site avoids unnecessary registration.
+7. User doesn't need to enter the same information twice.
+8. Site requires minimum scrolling and clicking.
+9. Path for any task is shortened to 2-5 clicks.
+10. Any complex tasks should show the user the steps.
