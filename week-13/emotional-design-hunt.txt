@@ -13,13 +13,16 @@ A. Photograph of the object (place in the week-12/ directory and commit).
 B. Emotional design levels of your object:
 
 * Visceral:
+I love the Logitech MX Master mouse for many reasons. I love the black color with the gold/copper trim. To me it gives an appealing appearance.
 
 * Behavioral:
+But the reason I bought this mouse is because of how it feels in my hands. Its ergonomics are perfect for the shape of my hand and it doesn't have a ton of unnecessary buttons that I will never use.
 
 * Reflective:
+I also love this mouse because I trust Logitech. When have you ever heard someone complain about Logitech making a bad mouse or keyboard? Exactly! never! I have never had a bad experience with them and I trust them as a manufacturer for it.
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1. Make the site visually appealing. Will hopefully make the user happy.
+2. Know why the site exists and why people will go there for it. Don't add anything unnecessary to the page.
+3. Give the user a reason to trust the site redesign. If they trust it they will not doubt it unless a reason is given to them.
